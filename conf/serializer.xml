@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Connection class_id="0" tracking_level="0" version="0">
+	<Address>10.102.252.8</Address>
+	<Port>7777</Port>
+	<ConnType>UDP</ConnType>
+</Connection>
+</boost_serialization>
+
